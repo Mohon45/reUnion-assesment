@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Loader from "../../shared/Loader/Loader";
+import Navbar from "../../shared/Navbar/Navbar";
 
 const Home = () => {
   const [houses, setHouses] = useState([]);
@@ -40,9 +41,11 @@ const Home = () => {
     }
   };
   return (
-    <div className="container my-5">
+    <div className="">
+      {/* navber */}
+      <Navbar />
       {/* title and search section start */}
-      <div className="mt-5">
+      <div className="container my-5">
         <h1 className="home-title">Search Properties to Rent in India</h1>
 
         <div className="card shadow my-5" style={{ width: "100%" }}>
@@ -125,7 +128,7 @@ const Home = () => {
       {/* title and search section end */}
 
       {/* property card section start */}
-      <div>
+      <div className="container">
         {loading ? (
           <Loader />
         ) : (
