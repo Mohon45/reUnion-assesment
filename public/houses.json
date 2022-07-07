@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Nice Stay",
+    "price": 5000,
+    "location": "kolkata, West Bengal",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/D5ZJxmb/download-11.webp"
+  },
+  {
+    "id": 2,
+    "name": "Palm Harbor",
+    "price": 2095,
+    "location": "delhi, Delhi",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/fSZJWr1/download-6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Beverly Springfield",
+    "price": 2700,
+    "location": "Lucknow, Uttar Pradesh",
+    "bed": 4,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/F5C4TVB/download7.webp"
+  },
+  {
+    "id": 4,
+    "name": "Faulkner Ave",
+    "price": 3800,
+    "location": "Jaipur, Rajasthan",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/5rQ5FC3/download1.webp"
+  },
+  {
+    "id": 5,
+    "name": "The Oberoi Mumbai",
+    "price": 4000,
+    "location": "South Mumbai, Mumbai",
+    "bed": 4,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/Ypqzwy0/download.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Trident Bandra Kurla",
+    "price": 3500,
+    "location": "Jalandhar, punjab",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/cyXV1wB/download-3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Taj Lakefront Bhopal",
+    "price": 4000,
+    "location": "Berhampur, Odisha",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/M6CJph7/download-4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "DREAMZ INN & SUITES",
+    "price": 3900,
+    "location": "Pune, Maharashtra",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/YytP92k/download-5.jpg"
+  },
+  {
+    "id": 9,
+    "name": "FabHotel Eros 282",
+    "price": 4000,
+    "location": "Nagpur, Maharashtra",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/dMZGj2p/download6.webp"
+  },
+  {
+    "id": 10,
+    "name": "Gallivanto Inn",
+    "price": 5000,
+    "location": "Jabalpur, Madhya Pradesh",
+    "bed": 4,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/F5C4TVB/download7.webp"
+  },
+  {
+    "id": 11,
+    "name": "The Oberoi Bengaluru",
+    "price": 3700,
+    "location": "Bengaluru, Karnataka",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/fSZJWr1/download-6.jpg"
+  },
+  {
+    "id": 12,
+    "name": "FabHotel Apricot Premier",
+    "price": 4000,
+    "location": "Hazaribagh, Jharkhand",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/D5ZJxmb/download-11.webp"
+  },
+  {
+    "id": 13,
+    "name": "The Leela Palace Bengaluru",
+    "price": 5000,
+    "location": "Bengaluru, Karnataka",
+    "bed": 4,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/nR8HgNn/download-7.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Novotel",
+    "price": 3500,
+    "location": "Jabalpur, Madhya Pradesh",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/zFWBkzw/download-6.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Aira Xing",
+    "price": 3800,
+    "location": "East Khasi Hills, Meghalaya",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/1QGsdw5/download-5.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Dalas",
+    "price": 4000,
+    "location": "Cuttack, Odisha",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/khmnpHw/download-4.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Sunflower",
+    "price": 3700,
+    "location": "Rup Nagar, punjab",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/gMSMhTW/download-3.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Al-Arafat hotel",
+    "price": 2000,
+    "location": "Udaipur, Rajasthan",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/ZHkSmjS/download-2.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Padma House",
+    "price": 2000,
+    "location": "Meerut, Uttar Pradesh",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "houses",
+    "image": "https://i.ibb.co/1v3HWs1/download-1.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Bindu",
+    "price": 2000,
+    "location": "kolkata, West Bengal",
+    "bed": 3,
+    "bathroom": 2,
+    "popertyType": "hotel",
+    "image": "https://i.ibb.co/dGjVxvy/download.jpg"
+  }
+]

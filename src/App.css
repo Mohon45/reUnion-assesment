@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+body {
+  background-color: #f8f9fa;
+  font-family: "Poppins", sans-serif;
+}
+.shadow {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* navbar design style start */
+
+.navbar {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  font-size: 1.3rem;
+}
+.navbar-brand {
+  font-family: "Lobster", cursive;
+  font-size: 3rem;
+}
+.login-sign-up-btn button {
+  font-size: 1.3rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* navbar design style end */
+
+/* home design style start */
+.home-title {
+  font-size: 3rem;
+  font-weight: bold;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.search-form {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-evenly;
 }
 
-.App-link {
-  color: #61dafb;
+.card img {
+  height: 270px;
+  width: 100%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.price {
+  font-size: 2rem;
+  color: #7368c6;
 }
+.location {
+  opacity: 0.8;
+}
+.select-cus {
+  width: 150px;
+}
+/* home design style end */
